@@ -13,7 +13,7 @@
 <body>
 	<form enctype="application/x-www-form-urlencoded">
 		<input type="file" id="file" name="file" onchange="uploadFile();" />
-		<img alt="Imagem" id="target" width="200" height="200"> 
+		<img alt="Imagem" id="target" width="400" height="200"> 
 	</form>
 	<br/>
 	<br/>
